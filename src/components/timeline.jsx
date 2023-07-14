@@ -56,8 +56,9 @@ functionality with a user-centric interface, product listing, and an image carou
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Optimized Private Equity Add-On OpenAI Classifier </h2>
+                        <p>Developed a fine-tuned model using OpenAI API to classify and rank potential add-on companies for private equity
+fund's portfolio companies, assigning priorities from 1 to 3 based on strategic fit and synergies.</p> 
                       </div>
                     </div>
                   </article>
