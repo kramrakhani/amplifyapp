@@ -9,7 +9,7 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                 <span className="heading-meta">highlights</span>
-                <h2 className="colorlib-heading animate-box">Timeline</h2>
+                <h2 className="colorlib-heading animate-box">Experiences</h2>
               </div>
             </div>
             <div className="row">
@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>Teaching Assistant at USC <span>2021-2023</span></h2>
+                        <p>Part of the teaching staff for CSCI-401, Capstone: Design and Construction of Large Software Systems and CS201, Principles of Software Development.</p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +32,21 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Android Intern at Thumbtack<span>2022</span></h2>
+                        <p> Designed a new payment flow for Android users that provided the option to save payment methods, allowing
+ integration of Affirm and Klarna.</p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-4">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Nike App in React Native and Redux</h2>
+                        <p> Utilized React Native and Redux to develop a comprehensive mobile application, replicating the Nike app's
+functionality with a user-centric interface, product listing, and an image carousel for product details.</p>
                       </div>
                     </div>
                   </article>
